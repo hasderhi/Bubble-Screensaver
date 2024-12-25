@@ -48,6 +48,8 @@ class Bubble:
     1. Install the required libraries by running `pip install pygame` in the windows cmd
     2. Run the script by double-clicking the file or by running it in the cmd
 
+**Warning: The .exe version necessitates running software from an unverified developer. If this concerns you, I suggest opting for the .py version instead. Please note that this does not imply that the program is unsafe; the developer simply hasn't had the opportunity to certify the app.**
+
 ## Information
 
 This software is written by Tobias Kisling (Github: hasderhi)
