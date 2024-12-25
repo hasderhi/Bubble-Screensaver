@@ -1,5 +1,7 @@
 # Bubble Screensaver for Windows
 
+![Image of the screensaver running. Blue background with colored bubble above it.](assets/asset01.png)
+
 ## Author: Tobias Kisling (hasderhi)
 
 ## Introduction
