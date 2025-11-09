@@ -2,7 +2,7 @@
 
 ![Image of the screensaver running. Blue background with colored bubble above it.](assets/asset01.png)
 
-## Author: Tobias Kisling (hasderhi)
+## Author: Annabeth Kisling (hasderhi)
 
 ## Introduction
 
@@ -52,7 +52,7 @@ class Bubble:
 
 ## Information
 
-This software is written by Tobias Kisling (Github: hasderhi)
+This software is written by Annabeth Kisling (Github: hasderhi)
 Please report bugs here:
 <https://github.com/hasderhi/bubble-screensaver>
 
